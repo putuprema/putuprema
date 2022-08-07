@@ -1,8 +1,8 @@
 ### Hola, Putu Prema here! 👋
 
-- 🌱 I’m currently learning Fullstack Development and Deep Learning
-- 👯 I’m looking to collaborate on Computer Vision and Deep Learning in general
-- 🤔 I’m looking for help with developing scalable microservices
+- 🔭 Currently working at a software house company in Indonesia and focusing on Full-stack Development
+- 🌱 An enthusiast in writing scalable full stack (backend & frontend) applications, computer vision, deep learning, and blockchain
+- 👯 Looking forward to collaborate in full-stack web & mobile projects
 - 💬 Ask me about Web, Backend, and AI related stuffs!
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/putuprema) or [Email](mailto:putu@purema.xyz)
 
